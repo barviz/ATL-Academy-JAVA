@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Scrum",
+    "description": "Preguntas relacionadas Scrum."
+  },
+  {
+    "category": "Git",
+    "description": "Preguntas relacionadas con Git."
+  },
+  {
+    "category": "JSON",
+    "description": "Preguntas relacionadas con JSON."
+  },
+  {
+    "category": "JAVA",
+    "description": "Preguntas relacionadas con JAVA."
+  },
+  {
+    "category": "MySQL",
+    "description": "Preguntas relacionadas con MySQL."
+  },
+  {
+    "category": "Springboot",
+    "description": "Preguntas relacionadas con Springboot."
+  }
+]

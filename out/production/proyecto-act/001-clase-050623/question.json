@@ -1,0 +1,7 @@
+{
+  "category": "JAVA",
+  "question": "¿Cuál de las siguientes opciones describe mejor la definición de Java?",
+  "options": ["Un tipo de café muy popular en el mundo", "Un lenguaje de programación de alto nivel y orientado a objetos", "Un estilo de baile tradicional de América Latina"],
+  "answer": 1,
+  "explanation": "Java es ampliamente utilizado en el desarrollo de software y aplicaciones web debido a su capacidad para ser ejecutado en múltiples plataformas y su enfoque en la reutilización de código a través de la programación orientada a objetos"
+}
