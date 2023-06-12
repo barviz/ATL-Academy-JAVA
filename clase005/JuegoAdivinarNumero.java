@@ -1,4 +1,4 @@
-package clase006;/*5) Juego de adivinar el número:
+package clase005;/*5) Juego de adivinar el número:
 Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el número.
 */
 

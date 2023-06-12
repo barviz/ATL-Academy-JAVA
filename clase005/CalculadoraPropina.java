@@ -1,4 +1,4 @@
-package clase006;/*Calculadora de propinas:
+package clase005;/*Calculadora de propinas:
 Pídele al usuario que ingrese el total de la cuenta en un restaurante.
 Pídele al usuario que ingrese el porcentaje de propina que desea dejar.
 Calcula el monto de la propina utilizando la fórmula: propina = totalCuenta * (porcentajePropina / 100).

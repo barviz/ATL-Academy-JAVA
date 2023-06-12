@@ -1,4 +1,4 @@
-package clase006;/*Calculadora de descuento:
+package clase005;/*Calculadora de descuento:
 Pídele al usuario que ingrese el precio original de un producto.
 Pídele al usuario que ingrese el porcentaje de descuento.
 Calcula el precio final después de aplicar el descuento utilizando la fórmula:
